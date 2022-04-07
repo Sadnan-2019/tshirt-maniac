@@ -1,0 +1,15 @@
+.shirt-container{
+
+
+          border: 2px solid grey;
+          border-radius: 10px;
+          background-color: rgb(159, 44, 44);
+          color: white;
+        
+}
+
+.shirt-container img{
+
+          width: 200px;
+          height: 120px;
+}
