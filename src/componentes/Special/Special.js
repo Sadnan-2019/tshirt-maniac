@@ -5,7 +5,7 @@ const Special = ( ) => {
           // const [ring ]=useContext(RingContext)
           const [house,setHouse]=useContext(RingContext)
           return (
-                    <div>
+                    <div className=''>
                          <p>Special:{house}</p> 
                          <button onClick={()=>setHouse(house + 1)}>Context Button</button>    
                     </div>
